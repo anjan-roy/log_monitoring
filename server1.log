@@ -1,0 +1,8 @@
+INFO: Application started successfully.
+INFO: User logged in at 10:30 AM.
+WARNING: Disk space running low. Only 10% remaining.
+INFO: Scheduled backup started.
+ERROR: Database connection failed! Unable to reach db.server.com.
+INFO: Backup completed successfully.
+ERROR: Server response timeout after 30 seconds.
+INFO: User logged out at 12:45 PM.
