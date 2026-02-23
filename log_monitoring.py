@@ -54,7 +54,7 @@ def main():
         print(alert_message)
         send_email_alert(alert_message)
     else:
-        print("No combined warning and error detected.")
+        print("No combined warning and error detected")
 
 if __name__ == "__main__":
     main()
